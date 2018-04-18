@@ -1,0 +1,26 @@
+{
+	"id": "nodebb-plugin-stomt-feedback",
+	"url": "https://github.com/NodeBB/nodebb-plugin-stomt-feedback",
+	"library": "./library.js",
+	"hooks": [
+		{
+			"hook": "static:app.load", "method": "init"
+		},
+		{
+			"hook": "filter:admin.header.build", "method": "addAdminNavigation"
+		},		
+		{ "hook": "action:plugin.activate", "method": "admin.activate" },
+		{ "hook": "filter:config.get", "method": "onConfigGet" }
+	],
+	"staticDirs": {
+		"static": "./static"
+	},
+	"less": [
+		"static/style.less"
+	],
+	"scripts": [
+		"static/lib/main.js",
+		"static/lib/admin.js"
+	],
+	"templates": "static/templates"
+}

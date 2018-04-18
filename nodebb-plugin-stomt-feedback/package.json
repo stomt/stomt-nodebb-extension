@@ -1,0 +1,112 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nodebb-plugin-stomt-feedback",
+        "scope": null,
+        "escapedName": "nodebb-plugin-stomt-feedback",
+        "name": "nodebb-plugin-stomt-feedback",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/qwerty/nodebb"
+    ],
+    [
+      {
+        "raw": "nodebb-plugin-stomt-feedback",
+        "scope": null,
+        "escapedName": "nodebb-plugin-stomt-feedback",
+        "name": "nodebb-plugin-stomt-feedback",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/qwerty/nodebb"
+    ],
+    [
+      {
+        "raw": "nodebb-plugin-stomt-feedback",
+        "scope": null,
+        "escapedName": "nodebb-plugin-stomt-feedback",
+        "name": "nodebb-plugin-stomt-feedback",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/qwerty/nodebb"
+    ]
+  ],
+  "_from": "nodebb-plugin-stomt-feedback",
+  "_id": "nodebb-plugin-stomt-feedback@1.0.16",
+  "_inBundle": false,
+  "_inCache": true,
+  "_integrity": "sha1-j7cYj4j5QiGi0szNFEQ2iNrwqIM=",
+  "_location": "/nodebb-plugin-stomt-feedback",
+  "_nodeVersion": "6.13.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nodebb-plugin-stomt-feedback_1.0.13_1524012963736_0.6025971211027823"
+  },
+  "_npmUser": {
+    "name": "azerty_333",
+    "email": "bader.mariem1@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nodebb-plugin-stomt-feedback",
+    "name": "nodebb-plugin-stomt-feedback",
+    "escapedName": "nodebb-plugin-stomt-feedback",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-stomt-feedback/-/nodebb-plugin-stomt-feedback-1.0.16.tgz",
+  "_shasum": "8fb7188f88f94221a2d2cccd14443688daf0a883",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-plugin-stomt-feedback",
+  "_where": "C:\\Users\\MARIEM\\Desktop\\Nouveau dossier",
+  "author": {
+    "name": "Mariem Bader"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "A starter kit for quickly creating NodeBB plugins. Comes with a pre-setup LESS file, server side JS script with an `action:app.load` hook, and a client-side script. Most plugins need at least one of the above, so this ought to save you some time. For a fu",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f52ebabf77ab96365b4139d6a8a63f39d59ad3f9",
+    "tarball": "https://registry.npmjs.org/nodebb-plugin-stomt-feedback/-/nodebb-plugin-stomt-feedback-1.0.13.tgz",
+    "fileCount": 11,
+    "unpackedSize": 14936,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJa1pekCRA9TVsSAnZWagAALIAP/ifrWHYUky05f65a+H/y\nikFvB04IfoLbWX6sJAsVhnkQo1WF5JVgd/auGJiPxRlP/ZslfeIe6U0cJBNQ\navurIb3yUrtJUloOaD3/BnRx8Bvht9tVoJh++AkhBmDRNGJZILTdSfQAx+Zr\nXlJp9PZKiNYaRDHZeiQ5x52uYrL/RHfBCuY9J8ibfc+o66UDRAXEtIEngoVQ\nYTKqaKrihxihJwB3CxWa1RPmkv6LBRN1vLkGH28n8+9Lnddi0X1BQ3YXofYD\n1c/Sz1FwLYggpbb9T6O/nxDUj6c/nt0SNZSgR0dFbgO0mDUo7X2leZOVBfNr\neZHpeuJm495t9WvaH3fs6MOfHRbk5/RNs0Z5hoYqjgznyNIkEcDdhwmNrjY/\ngXNRIQN4lKc5g9GQgZM74Hh3CrJlJh/VLRA3vorb9xZhGRUErFqLA0/j8UX4\nyD26yxA8Zy+hyLRXzM71suV3h34WbC2UANjSExkUoAgWJCvWIxHyAZi6gOtr\nhxl+GSGAFDFEzuVniKIXggtpasyFmSur9kF0OyQX3dVBviNzPxi03Pp/UDPD\nIVGgPsuoi4ldVD7gUf9df73jMkSkFAQgbDKUpf9PwLZeaeC0nwDzbCZ2SFc7\num3KYb4MmpXDmO7YCDJZOC7rntzs0TnKItdrdH21wg66Pf6RZXE9A7znsCp5\nuE/A\r\n=Saep\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "keywords": [
+    "stomt",
+    "feedback",
+    "stomtfeedback",
+    "shoutbox"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "library.js",
+  "maintainers": [
+    {
+      "name": "azerty_333",
+      "email": "bader.mariem1@gmail.com"
+    }
+  ],
+  "name": "nodebb-plugin-stomt-feedback",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.16"
+}
