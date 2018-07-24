@@ -1,6 +1,6 @@
 {
 	"id": "nodebb-plugin-stomt-feedback",
-	"url": "https://github.com/NodeBB/nodebb-plugin-stomt-feedback",
+	"url": "https://github.com/stomt/stomt-nodebb-extension",
 	"library": "./library.js",
 	"hooks": [
 		{
